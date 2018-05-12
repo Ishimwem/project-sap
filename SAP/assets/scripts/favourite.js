@@ -23,12 +23,12 @@ function favourite(cat, sub){
 }
 
 
-function unfavourite(cat){
+function unfavourite(cat, sub){
 
   $.ajax({
         url: "http://localhost:3030/category/unfavourite",
         type: "POST",
-        data: {newcat : cat},
+        data: {newcat : cat, subcat: sub},
         success: (result) => {
           alert("You have unfavourited this item")
         },

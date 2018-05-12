@@ -2,13 +2,13 @@
 If you have a learning disability that requires note-taking support, you need to go through the following steps:
 <br>
 <ol>
-<li>Provide a letter of accommodation to your professor, which you can access from the documents category in your graph. </li>
-<li>Register with the note-taking service and request the accommodation. You can register by clicking register button below </li>
+<li>Provide a letter of accommodation to your professor, which you can access from the documents category in your graph.</li>
+<li>Register with the note-taking service and request the accommodation. You can register by clicking register button below.</li>
 </ol>
 <br>
 Notice that this is a volunteer based accommodation, thus there is no guarantee your every class will be able to provide the notes. If you have any questions, or concerns, contact the note taking service at as.notetaking@utoronto.ca
 <br>
 <button onclick="location.href='https://sites.studentlife.utoronto.ca/accessibility/login.aspx';">Register</button>
 
-<button onclick=favourite(`notes`, `request`)>Favourite</button>
-<button onclick=unfavourite(`notes`, `request`)>Unfavourite</button>
+<button onclick=favourite(`notes`,`notesrequest`)>Favourite</button>
+<button onclick=unfavourite(`notes`,`notesrequest`)>Unfavourite</button>

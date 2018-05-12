@@ -20,18 +20,15 @@ body {
 }
 
 .service {
-  float: center;
   padding-left: 20px;
-  width: 50%;
   display: none;
-  max-height = 200px;
-  overflow: scroll;
+  overflow: auto;
 }
 
-#Accommodation-Renewal {
+/*#Accommodation-Renewal {
   font-size : 13px;
   overflow: scroll;
-}
+}*/
 
 button {
   border: 3px solid #fff;

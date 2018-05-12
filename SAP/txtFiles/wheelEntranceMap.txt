@@ -2,5 +2,5 @@
 For a map showing accessible entrances for buildings around the campus, please click the button below.
 <br>
 <button onclick="location.href='http://map.utoronto.ca/access/accessibility';">Map</button>
-<button onclick=favourite(`test`, `info`)>Favourite</button>
-<button onclick=unfavourite(`test`, `info`)>Unfavourite</button>
+<button onclick=favourite(`build`,`wheelchair`)>Favourite</button>
+<button onclick=unfavourite(`build`,`wheelchair`)>Unfavourite</button>

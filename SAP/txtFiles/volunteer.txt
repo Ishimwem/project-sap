@@ -5,6 +5,6 @@ To volunteer, please register by clicking the register button below.
 <br>
 <button onclick="location.href='https://www.studentlife.utoronto.ca/as/note-taking#node-7667';">More Info</button>
 <button onclick="location.href='https://sites.studentlife.utoronto.ca/accessibility/pcourselist.aspx';">Register</button>
-
-<button onclick=favourite(`notes`, `volunteer`)>Favourite</button>
-<button onclick=unfavourite(`notes`, `volunteer`)>Unfavourite</button>
+<br>
+<button onclick=favourite(`notes`,`volunteer`)>Favourite</button>
+<button onclick=unfavourite(`notes`,`volunteer`)>Unfavourite</button>

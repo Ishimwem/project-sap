@@ -23,6 +23,6 @@ If you still have questions about whether or not you need updated documentation,
 <br>
 You can download the Accommodation Renewal Form by clicking download below
 <br>
-<button onclick="location.href='http://www.studentlife.utoronto.ca/as/annual-renewal';">Download</button>
-<button onclick=favourite(`documents`, `renewal`)>Favourite</button>
-<button onclick=unfavourite(`documents`, `renewal)>Unfavourite</button>
+<button onclick="location.href='http://www.studentlife.utoronto.ca/system/files_force/Annual%20Renewal%20Form%20-%20April%2020_2016%20FINAL-es.pdf?download=1';">Download</button>
+<button onclick=favourite(`documents`,`renewal`)>Favourite</button>
+<button onclick=unfavourite(`documents`,`renewal`)>Unfavourite</button>

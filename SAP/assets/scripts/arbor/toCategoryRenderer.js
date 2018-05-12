@@ -29,7 +29,7 @@
             if (node.data.parent != undefined){
               var parent = particleSystem.getNode(node.data.parent);
               x = parent.p.x;
-              y = (1/y) + parent.p.y;
+              y = (1/y) + parent.p.y - 1;
             }
 
             var angle = (count / (5/2)) * Math.PI;

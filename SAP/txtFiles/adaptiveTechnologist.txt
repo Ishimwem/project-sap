@@ -11,5 +11,6 @@ Our Adaptive Technologist will meet with you to:
 Lake Porter, Adaptive Technologist
 <br>
 lake.porter@utoronto.ca | 416-978-0356 | Drop-in: Wednesdays 3:00 - 4:00 p.m.
-<button onclick=favourite(`counsellors`, `adaptive`)>Favourite</button>
-<button onclick=unfavourite(`counsellors`, `adaptive`)>Unfavourite</button>
+<br>
+<button onclick=favourite(`counsellors`,`adaptive`)>Favourite</button>
+<button onclick=unfavourite(`counsellors`,`adaptive`)>Unfavourite</button>

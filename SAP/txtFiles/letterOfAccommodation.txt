@@ -11,8 +11,6 @@ For example, your instructor needs to know:
 <br>
 You can download the Letter of Accommodation by clicking download below
 <br>
-<button onclick="location.href='https://www.studentlife.utoronto.ca/as/accommodation-letter';">Download</button>
-<button onclick=favourite(`documents`, `letter`)>Favourite</button>
-<button onclick=unfavourite(`documents`, `letter`)>Unfavourite</button>
-
-
+<button onclick="location.href='http://clockwork.studentlife.utoronto.ca/custom/misc/home.aspx';">Download</button>
+<button onclick=favourite(`documents`,`letter`)>Favourite</button>
+<button onclick=unfavourite(`documents`,`letter`)>Unfavourite</button>

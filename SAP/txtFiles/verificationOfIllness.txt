@@ -19,6 +19,6 @@ Submit this form to your professor to gain accommodations.
 <br>
 You can download the Verification of Student Illness or Injury Form by clicking download below
 <br>
-<button onclick="location.href='http://www.illnessverification.utoronto.ca/index.php';">Download</button>
+<button onclick="location.href='http://www.illnessverification.utoronto.ca/document/Verification%20of%20Student%20Illness%20(VOI)%20-%20March%207%202018%20-%20AODA.pdf';">Download</button>
 <button onclick=favourite(`documents`,`verify`)>Favourite</button>
-<button onclick=unfavourite(`documents`, `verify`)>Unfavourite</button>
+<button onclick=unfavourite(`documents`,`verify`)>Unfavourite</button>

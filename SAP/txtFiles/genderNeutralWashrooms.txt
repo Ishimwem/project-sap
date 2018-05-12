@@ -2,5 +2,5 @@
 Gender neutral washrooms are washrooms that can be used by anyone, regardless of gender. To find these washrooms across campus, click the button below.
 <br>
 <button onclick="location.href='https://www.google.com/maps/d/u/0/viewer?ll=43.6644960869156%2C-79.40055388626098&spn=0.006209%2C0.008583&hl=en&oe=UTF8&msa=0&z=15&source=embed&ie=UTF8&mid=1rq7wdIJjA5v3kKEkDhD0HsTGoaw';">Map</button>
-<button onclick=favourite(`test`, `info`)>Favourite</button>
-<button onclick=unfavourite(`test`, `info`)>Unfavourite</button>
+<button onclick=favourite(`test`,`info`)>Favourite</button>
+<button onclick=unfavourite(`test`,`info`)>Unfavourite</button>

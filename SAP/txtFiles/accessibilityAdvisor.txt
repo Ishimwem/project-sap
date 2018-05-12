@@ -5,5 +5,5 @@ Email our Accessibility Advisors for questions, inquiries and appointments. Drop
 <br>
 <a href="https://www.studentlife.utoronto.ca/as/accessibility-advisors">Click here</a> for contact list
 <br>
-<button onclick=favourite(`counsellors`, `advisor`)>Favourite</button>
-<button onclick=unfavourite(`counsellors`, `advisor`)>Unfavourite</button>
+<button onclick=favourite(`counsellors`,`advisor`)>Favourite</button>
+<button onclick=unfavourite(`counsellors`,`advisor`)>Unfavourite</button>
